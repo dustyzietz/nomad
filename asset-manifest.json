@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/store-template/static/css/main.2cce8147.chunk.css",
-    "main.js": "/store-template/static/js/main.791924a4.chunk.js",
-    "main.js.map": "/store-template/static/js/main.791924a4.chunk.js.map",
-    "runtime~main.js": "/store-template/static/js/runtime~main.5e6dd403.js",
-    "runtime~main.js.map": "/store-template/static/js/runtime~main.5e6dd403.js.map",
-    "static/js/2.c287fa20.chunk.js": "/store-template/static/js/2.c287fa20.chunk.js",
-    "static/js/2.c287fa20.chunk.js.map": "/store-template/static/js/2.c287fa20.chunk.js.map",
-    "index.html": "/store-template/index.html",
-    "precache-manifest.6db383b353ea11306842ba846fa3776e.js": "/store-template/precache-manifest.6db383b353ea11306842ba846fa3776e.js",
-    "service-worker.js": "/store-template/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/store-template/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/nomad/static/css/main.2cce8147.chunk.css",
+    "main.js": "/nomad/static/js/main.3ba39e7a.chunk.js",
+    "main.js.map": "/nomad/static/js/main.3ba39e7a.chunk.js.map",
+    "runtime~main.js": "/nomad/static/js/runtime~main.08640347.js",
+    "runtime~main.js.map": "/nomad/static/js/runtime~main.08640347.js.map",
+    "static/js/2.c287fa20.chunk.js": "/nomad/static/js/2.c287fa20.chunk.js",
+    "static/js/2.c287fa20.chunk.js.map": "/nomad/static/js/2.c287fa20.chunk.js.map",
+    "index.html": "/nomad/index.html",
+    "precache-manifest.0218cfaf1aad77e98e8d32757973f647.js": "/nomad/precache-manifest.0218cfaf1aad77e98e8d32757973f647.js",
+    "service-worker.js": "/nomad/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/nomad/static/css/main.2cce8147.chunk.css.map"
   }
 }
